@@ -8,3 +8,4 @@
     "url": "javascript:alert('xss')"
     }
   }
+}
